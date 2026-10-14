@@ -1,0 +1,10 @@
+# Python dependencies for bot.py
+# Pin versions if you need reproducible installs
+
+discord.py>=2.1.0
+Flask>=2.0
+Flask-Cors>=3.0
+python-dotenv>=1.0
+paramiko>=2.11
+requests>=2.28
+psutil>=5.9  # optional, used by some host-stat functions
